@@ -40,7 +40,7 @@ export function About() {
                             </a>
                         </p>
                         <br />
-                        <p className='text-white'>
+                        <p className='text-white font-medium italic'>
                             A aspiring software engineer who values humility, exploration, and learning.
                         </p>
                         <br />
@@ -112,12 +112,13 @@ export function About() {
                         </p>
                         <h2 class="mt-8 mb-4 text-2xl font-bold text-white">Skills</h2>
                         <div class="mb-2 flex flex-wrap">
-                            <span class="mr-2 mb-2 rounded-sm px-2 py-1 text-xs font-medium text-white border-2">TypeScript</span>
+                            <span class="mr-2 mb-2 rounded-sm px-2 py-1 text-xs font-medium text-white border-2">JavaScript</span>
                             <span class="mr-2 mb-2 rounded-sm px-2 py-1 text-xs font-medium text-white border-2">Python</span>
                             <span class="mr-2 mb-2 rounded-sm px-2 py-1 text-xs font-medium text-white border-2">React</span>
-                            <span class="mr-2 mb-2 rounded-sm px-2 py-1 text-xs font-medium text-white border-2">AWS</span>
+                            <span class="mr-2 mb-2 rounded-sm px-2 py-1 text-xs font-medium text-white border-2">DS & A</span>
                             <span class="mr-2 mb-2 rounded-sm px-2 py-1 text-xs font-medium text-white border-2">PostgreSQL</span>
                             <span class="mr-2 mb-2 rounded-sm px-2 py-1 text-xs font-medium text-white border-2">R & R Studio</span>
+                            <span class="mr-2 mb-2 rounded-sm px-2 py-1 text-xs font-medium text-white border-2">Tableau</span>
                             <span class="mr-2 mb-2 rounded-sm px-2 py-1 text-xs font-medium text-white border-2">Java</span>
                             <span class="mr-2 mb-2 rounded-sm px-2 py-1 text-xs font-medium text-white border-2">Firebase</span>
                             <span class="mr-2 mb-2 rounded-sm px-2 py-1 text-xs font-medium text-white border-2">REST APIs</span>

@@ -17,25 +17,25 @@ function App() {
       <div className='bg-[#171717] text-white antialiased dark:bg-black dark:text-white'>
         <div className='mx-auto max-w-3xl px-4 sm:px-6 xl:max-w-5xl xl:px-0'>
 
-            <header>
-              <NavbarComponent />
-            </header>
+          <header>
+            <NavbarComponent />
+          </header>
 
-            <body>
-              <Routes>
-                <Route path='/' element={<HomepageContent />} />
-                <Route path='/about' element={<About />} />
-                <Route path='/contact' element={<Contact />} />
-                <Route path='*' element={<Fourohfour />} />
-              </Routes>
-            </body>
+          <body>
+            <Routes>
+              <Route path='/' element={<HomepageContent />} />
+              <Route path='/about' element={<About />} />
+              <Route path='/contact' element={<Contact />} />
+              <Route path='*' element={<Fourohfour />} />
+            </Routes>
+          </body>
 
-            <footer>
-              <Footer />
-            </footer>
-          </div>
-
+          <footer>
+            <Footer />
+          </footer>
         </div>
+
+      </div>
     </body>
   );
 }

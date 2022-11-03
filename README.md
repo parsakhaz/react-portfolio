@@ -20,4 +20,5 @@
 <br />
 <br />
 <br />
+
 ###### This portfolio's aesthetic was inspired by [Karanpratapsingh's NextJS Portfolio Template](https://github.com/karanpratapsingh/portfolio).

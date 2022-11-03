@@ -26,7 +26,21 @@ export function About() {
                     </div>
 
                     <div className='text-[#c9c9c9] max-w-none pt-8 pb-8 dark:prose-dark xl:col-span-2'>
-                        <p>
+                        <p className='mt-8'>
+                            <a className="no-underline text-white font-medium" href="https://drive.google.com/file/d/1seCqVcPOge-nQNzQ30Ilwe0W5cOpdDya/view?usp=sharing" target="_blank" rel="noreferrer">
+                                <RoughNotation
+                                    show
+                                    type='box'
+                                    animationDelay={300}
+                                    animationDuration={4000}
+                                    color='white'
+                                >
+                                    Resume
+                                </RoughNotation>
+                            </a>
+                        </p>
+                        <br />
+                        <p className='text-white'>
                             A aspiring software engineer who values humility, exploration, and learning.
                         </p>
                         <br />
@@ -91,11 +105,27 @@ export function About() {
                         </p>
                         <br />
                         <p>
-                        Now: Currently I am in the process of transitioning into a SWE role, and looking for both internships and 
-                        new grad roles. I spent my last couple months solidifying the projects I had started, refreshing my DS & A 
-                        fundamentals, and putting together this portfolio. With graduation on the horizon, I am putting myself through
-                         the inevitable leetcode + application loop with hopes to end up at a company in the beautiful PNW.
+                            Now: Currently I am in the process of transitioning into a SWE role, and looking for both internships and
+                            new grad roles. I spent my last couple months solidifying the projects I had started, refreshing my DS & A
+                            fundamentals, and putting together this portfolio. With graduation on the horizon, I am putting myself through
+                            the inevitable leetcode + application loop with hopes to end up at a company in the beautiful PNW.
                         </p>
+                        <h2 class="mt-8 mb-4 text-2xl font-bold text-white">Skills</h2>
+                        <div class="mb-2 flex flex-wrap">
+                            <span class="mr-2 mb-2 rounded-sm px-2 py-1 text-xs font-medium text-white border-2">TypeScript</span>
+                            <span class="mr-2 mb-2 rounded-sm px-2 py-1 text-xs font-medium text-white border-2">Python</span>
+                            <span class="mr-2 mb-2 rounded-sm px-2 py-1 text-xs font-medium text-white border-2">React</span>
+                            <span class="mr-2 mb-2 rounded-sm px-2 py-1 text-xs font-medium text-white border-2">AWS</span>
+                            <span class="mr-2 mb-2 rounded-sm px-2 py-1 text-xs font-medium text-white border-2">PostgreSQL</span>
+                            <span class="mr-2 mb-2 rounded-sm px-2 py-1 text-xs font-medium text-white border-2">R & R Studio</span>
+                            <span class="mr-2 mb-2 rounded-sm px-2 py-1 text-xs font-medium text-white border-2">Java</span>
+                            <span class="mr-2 mb-2 rounded-sm px-2 py-1 text-xs font-medium text-white border-2">Firebase</span>
+                            <span class="mr-2 mb-2 rounded-sm px-2 py-1 text-xs font-medium text-white border-2">REST APIs</span>
+                            <span class="mr-2 mb-2 rounded-sm px-2 py-1 text-xs font-medium text-white border-2">MongoDB</span>
+                            <span class="mr-2 mb-2 rounded-sm px-2 py-1 text-xs font-medium text-white border-2">ExpressJS</span>
+                            <span class="mr-2 mb-2 rounded-sm px-2 py-1 text-xs font-medium text-white border-2">Azure DevOps</span>
+                            <span class="mr-2 mb-2 rounded-sm px-2 py-1 text-xs font-medium text-white border-2">JIRA</span>
+                        </div>
                     </div>
                 </div>
             </div>

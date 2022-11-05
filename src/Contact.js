@@ -15,7 +15,7 @@ export function Contact() {
                     </div>
                     <div className='container py-12'>
                         <p>
-                            Want to get in touch? Feel free to
+                            Want to get in touch? Feel free to send me an&nbsp; 
                             <a href='mailto:parsak@uw.edu'>
                                 <RoughNotation
                                     show
@@ -25,11 +25,11 @@ export function Contact() {
                                     animationDuration={2000}
                                     color='white'
                                 >
-                                    &nbsp; send me an email
+                                   email: parsak@uw.edu
                                 </RoughNotation>
                             </a>
-                            &nbsp; (parsak@uw.edu)
                         </p>
+                        
                         <div className='mt-2 flex'>
                             <a className="social-icons flex p-8" target="_blank" rel="noopener noreferrer" href="https://github.com/parsakhaz" aria-label="github"><GithubIcon /></a>
                             <a className="social-icons flex p-8" target="_blank" rel="noopener noreferrer" href="https://linkedin.com/in/parsas" aria-label="linkedin"><LinkedinIcon /></a>

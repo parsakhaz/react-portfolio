@@ -105,10 +105,10 @@ export function About() {
                         </p>
                         <br />
                         <p>
-                            Now: Currently I am in the process of transitioning into a SWE role, and looking for both internships and
-                            new grad roles. I spent my last couple months solidifying the projects I had started, refreshing my DS & A
-                            fundamentals, and putting together this portfolio. With graduation on the horizon, I am putting myself through
-                            the inevitable leetcode + application loop with hopes to end up at a company in the beautiful PNW.
+                            <strong>Now:</strong> Currently I am in the process of applying to tech internships. I spent my last couple months solidifying 
+                            the projects I had started, refreshing my DS & A fundamentals, and putting together this portfolio. My current
+                            focuses are helping build a school website for a local cultural group with friends, and rebuilding my Spotify 
+                            resume project with Azure and new UI/UX as well as more features to keep refining my skills. 
                         </p>
                         <h2 class="mt-8 mb-4 text-2xl font-bold text-white">Skills</h2>
                         <div class="mb-2 flex flex-wrap">
@@ -122,10 +122,23 @@ export function About() {
                             <span class="mr-2 mb-2 rounded-sm px-2 py-1 text-xs font-medium text-white border-2">Java</span>
                             <span class="mr-2 mb-2 rounded-sm px-2 py-1 text-xs font-medium text-white border-2">Firebase</span>
                             <span class="mr-2 mb-2 rounded-sm px-2 py-1 text-xs font-medium text-white border-2">REST APIs</span>
+                            <span class="mr-2 mb-2 rounded-sm px-2 py-1 text-xs font-medium text-white border-2">Axios</span>
                             <span class="mr-2 mb-2 rounded-sm px-2 py-1 text-xs font-medium text-white border-2">MongoDB</span>
                             <span class="mr-2 mb-2 rounded-sm px-2 py-1 text-xs font-medium text-white border-2">ExpressJS</span>
                             <span class="mr-2 mb-2 rounded-sm px-2 py-1 text-xs font-medium text-white border-2">Azure DevOps</span>
-                            <span class="mr-2 mb-2 rounded-sm px-2 py-1 text-xs font-medium text-white border-2">JIRA</span>
+                            <span class="mr-2 mb-2 rounded-sm px-2 py-1 text-xs font-medium text-white border-2">FIGMA</span>
+                            <span class="mr-2 mb-2 rounded-sm px-2 py-1 text-xs font-medium text-white border-2">Linear</span>
+                            <span class="mr-2 mb-2 rounded-sm px-2 py-1 text-xs font-medium text-white border-2">BeautifulSoup</span>
+                            <span class="mr-2 mb-2 rounded-sm px-2 py-1 text-xs font-medium text-white border-2">Pandas</span>
+                            <span class="mr-2 mb-2 rounded-sm px-2 py-1 text-xs font-medium text-white border-2">Jupyter Notebook</span>
+                            <span class="mr-2 mb-2 rounded-sm px-2 py-1 text-xs font-medium text-white border-2">SQL</span>
+                            <span class="mr-2 mb-2 rounded-sm px-2 py-1 text-xs font-medium text-white border-2">Google Cloud DataLab</span>
+                            <span class="mr-2 mb-2 rounded-sm px-2 py-1 text-xs font-medium text-white border-2">AGILE</span>
+                            <span class="mr-2 mb-2 rounded-sm px-2 py-1 text-xs font-medium text-white border-2">Scrummaster</span>
+                            <span class="mr-2 mb-2 rounded-sm px-2 py-1 text-xs font-medium text-white border-2">UX/UI</span>
+                            <span class="mr-2 mb-2 rounded-sm px-2 py-1 text-xs font-medium text-white border-2">Shinyapps</span>
+                            <span class="mr-2 mb-2 rounded-sm px-2 py-1 text-xs font-medium text-white border-2">Kaggle</span>
+                            <span class="mr-2 mb-2 rounded-sm px-2 py-1 text-xs font-medium text-white border-2">PM</span>
                         </div>
                     </div>
                 </div>

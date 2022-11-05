@@ -26,7 +26,7 @@ export function HomepageContent() {
               about me
             </RoughNotation>
           </Link>
-          or send
+          or send me a 
           <Link
             className='ml-2 text-lg font-bold dark:text-white'
             to='/contact'
@@ -38,7 +38,7 @@ export function HomepageContent() {
               animationDuration={2800}
               color='white'
             >
-              me a message
+             message
             </RoughNotation>
           </Link></p>
       </div>

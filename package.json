@@ -1,27 +1,41 @@
 {
-  "name": "react-portfolio",
+  "name": "react-vscode-portfolio",
   "version": "0.1.0",
+  "homepage": "https://noworneverev.github.io",
   "private": true,
   "dependencies": {
-    "@craco/craco": "^6.4.5",
-    "@testing-library/jest-dom": "^5.16.5",
-    "@testing-library/react": "^13.4.0",
+    "@emotion/react": "^11.9.0",
+    "@emotion/styled": "^11.8.1",
+    "@mui/icons-material": "^5.8.3",
+    "@mui/lab": "^5.0.0-alpha.85",
+    "@mui/material": "^5.8.3",
+    "@testing-library/jest-dom": "^5.16.4",
+    "@testing-library/react": "^13.3.0",
     "@testing-library/user-event": "^13.5.0",
-    "bootstrap": "^5.2.2",
-    "normalize.css": "^8.0.1",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-icons": "^4.6.0",
-    "react-rough-notation": "^1.0.3",
-    "react-router-dom": "^6.4.2",
+    "@types/jest": "^27.5.2",
+    "@types/node": "^16.11.39",
+    "@types/react": "^18.0.12",
+    "@types/react-dom": "^18.0.5",
+    "react": "^18.1.0",
+    "react-device-detect": "^2.2.2",
+    "react-dom": "^18.1.0",
+    "react-ga4": "^1.4.1",
+    "react-icons": "^4.4.0",
+    "react-markdown": "^8.0.3",
+    "react-router-dom": "^6.3.0",
     "react-scripts": "5.0.1",
-    "tailwind-scrollbar": "^2.0.1",
+    "rehype-raw": "^6.1.1",
+    "remark-breaks": "^3.0.2",
+    "remark-gfm": "^3.0.1",
+    "typescript": "^4.7.3",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "craco start",
-    "build": "craco build",
-    "test": "craco test",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -b gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
@@ -42,11 +56,13 @@
       "last 1 safari version"
     ]
   },
+  "browser": {
+    "fs": false,
+    "path": false,
+    "os": false
+  },
   "devDependencies": {
-    "autoprefixer": "^9.8.8",
-    "postcss": "^8.4.18",
-    "postcss-flexbugs-fixes": "^5.0.2",
-    "postcss-preset-env": "^7.8.2",
-    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.17"
+    "@types/webpack-env": "^1.17.0",
+    "gh-pages": "^4.0.0"
   }
 }

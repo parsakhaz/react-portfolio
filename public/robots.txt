@@ -1,2 +1,3 @@
-User-agent: Googlebot-Image
-Disallow: /
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow:

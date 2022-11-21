@@ -74,8 +74,6 @@ export default function App() {
     },
   });
 
-  usePageTracking();
-
   function handleThemeChange() {
     setDarkMode(!darkMode);
     localStorage.setItem("theme", darkMode ? "light" : "dark");

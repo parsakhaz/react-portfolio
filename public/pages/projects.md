@@ -1,25 +1,10 @@
 # 🧪 Projects
 
-## [React Portfolio v2 🔗](https://github.com/parsakhaz/react-portfolio)
-- what you see now, my best looking web app yet
-- inspired by vscode and notion, my two favorite daily tools :)
-- challenged myself to use typescript instead of javascript
-- TODO: animate and make homepage more interesting
-
-## [React Portfolio v1 🔗](https://react-portfolio-nurx9bivu-parsakhaz.vercel.app/)
-- react, js, tailwindcss
-- first version of portfolio, simple & did not use react components properly or typescript
-- used TailwindCSS for styling
-
 ## [WebSharer 🔗](https://test.parsak.me/) Back-End Development
 - started as simple website preview tool, expanded as i challenged myself to implement auth, databases, and api (express)
 - has website previewer and allows users to post previews, leave likes, leave comments, and more 
-- warning: ui is ugly, but the code follows model-view-controller methodology and uses rest principles
+- warning: front-end is ugly, but the code follows model-view-controller methodology and uses rest principles
 - expressjs, nodejs, mongodb, hosted on azure, auth by azure
-
-## [University of Washington Geo-Map 🔗](https://depts.washington.edu/tsevents/) Web Development
-- tasked to recreate a website that uses geographical data associated with panoramic images to display various parking locations on map tiler accurate to their location after previous developers quit without releasing source code D:
-- currently reverse engineering code and gathering requirements for redesign 
 
 ## [Python Web Scraper for UNFCCC & GSF 🔗](https://github.com/maxjj9710/unfccc-query) Data Science 
 - [github](https://github.com/maxjj9710/unfccc-query) & [documentation](https://github.com/maxjj9710/unfccc-query/wiki/User-Guide) 
@@ -32,7 +17,22 @@
 - cleaned and utilized unemployment rate dataset from kaggle to create web app that allows customizable visualizations to be generated
 - created with r, r studio, and ggplot2, hosted with shinyapps.io 
 
-## [Spotify Recap 🔗](https://github.com/parsa-khaz/spotify-time-capsule) Back-End Development
+## [React Portfolio v2 🔗](https://github.com/parsakhaz/react-portfolio)
+- what you see now
+- inspired by vscode and notion, my two favorite daily tools :)
+- challenged myself to use typescript instead of javascript, followed countless guides
+- TODO: animate, accessibility
+
+## [React Portfolio v1 🔗](https://react-portfolio-nurx9bivu-parsakhaz.vercel.app/)
+- react, js, tailwindcss
+- first version of portfolio, simple & did not use react components properly or typescript
+- used TailwindCSS for styling
+
+## [University of Washington Geo-Map 🔗](https://depts.washington.edu/tsevents/) Web Development
+- tasked to recreate a website that uses geographical data associated with panoramic images to display various parking locations on map tiler accurate to their location after previous developers quit without releasing source code D:
+- currently reverse engineering code and gathering requirements for redesign 
+
+## [Spotify Recap 🔗](https://github.com/parsakhaz/spotify-time-capsule) Back-End Development
 - [architectural diagram](https://drive.google.com/file/d/1w2agbpS1FLcfwB96QfJlsfnvM6AnF0ey/view)
 - simple tool to fetch/"recap" songs listened to in given season and year using spotify api and axios
 - TODO: recent update to spotify api broke functionality, fix and redo whole UI 

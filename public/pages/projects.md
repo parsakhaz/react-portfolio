@@ -21,7 +21,7 @@
 - what you see now
 - inspired by vscode and notion, my two favorite daily tools :)
 - challenged myself to use typescript instead of javascript, followed countless guides
-- TODO: animate, accessibility
+- TODO: analytics, animate, accessibility, make mobile responsive
 
 ## [React Portfolio v1 🔗](https://react-portfolio-nurx9bivu-parsakhaz.vercel.app/)
 - react, js, tailwindcss

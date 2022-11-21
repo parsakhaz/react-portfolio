@@ -1,3 +1,4 @@
+// import Material UI components to use
 import {
   Box,
   Grid,
@@ -12,20 +13,25 @@ import React, { useEffect } from "react";
 import { useLocation } from "react-router-dom";
 import { links } from "./links";
 
+// set selected index type to number
 interface Props {
   setSelectedIndex: React.Dispatch<React.SetStateAction<number>>;
 }
 
+
 export default function Home({ setSelectedIndex }: Props) {
+  // function for if x button is pressed, delete largest index from pages
   const { pathname } = useLocation();
   useEffect(() => {
     setSelectedIndex(-1);
   }, [setSelectedIndex]);
 
+  // override document title with env variable for react app name
   useEffect(() => {
     document.title = process.env.REACT_APP_NAME!;
   }, [pathname]);
 
+  // utilize MUI components to create home UI
   return (
     <Grid
       container

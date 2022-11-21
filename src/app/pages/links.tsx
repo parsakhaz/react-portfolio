@@ -1,3 +1,4 @@
+// import font-awesome react icons
 import {
   FaStickyNote,
   FaGithub,
@@ -5,6 +6,7 @@ import {
   FaEnvelope,
 } from "react-icons/fa";
 
+// links array for home/sidebar
 export const links = [
   {
     index: 0,

@@ -1,3 +1,4 @@
+// MUI components
 import {
   Container,
   createTheme,
@@ -20,12 +21,14 @@ import { pages } from "../pages/pages";
 import usePageTracking from "../hooks/usePageTracking";
 import { isBrowser } from "react-device-detect";
 
+// page interface for ts
 interface Page {
   index: number;
   name: string;
   route: string;
 }
 
+// only show visible page indexs in tabs
 function initVisiblePageIndexs(pages: Page[]) {
   const tabs = [];
   for (let i = 0; i < pages.length; i++) {
@@ -36,6 +39,7 @@ function initVisiblePageIndexs(pages: Page[]) {
 }
 
 export default function App() {
+  // init various useStates
   const navigate = useNavigate();
   const [expanded, setExpanded] = useState(isBrowser);
   const [selectedIndex, setSelectedIndex] = useState(-1);
@@ -43,10 +47,10 @@ export default function App() {
   const [visiblePageIndexs, setVisiblePageIndexs] = useState(
     initVisiblePageIndexs(pages)
   );
-  const [darkMode, setDarkMode] = useState(false);
   const [visiblePages, setVisiblePages] = useState(pages);
+  // dynamic dark mode followed guide online to implement
+  const [darkMode, setDarkMode] = useState(false);
   const paletteType = darkMode ? "dark" : "light";
-  usePageTracking();
   const theme = createTheme({
     palette: {
       mode: paletteType,
@@ -69,6 +73,8 @@ export default function App() {
       },
     },
   });
+
+  usePageTracking();
 
   function handleThemeChange() {
     setDarkMode(!darkMode);

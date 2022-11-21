@@ -1,3 +1,4 @@
+// pages array, modify or add new tabs here 
 export const pages = [
   { index: 0, name: 'overview.md', route: '/overview' },
   { index: 1, name: 'skills.md', route: '/skills' },

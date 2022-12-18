@@ -26,8 +26,9 @@ I have a wide breadth of knowledge, which allows me unique perspective and insig
 
 ## In the future...
 
+- exploring ideas to somehow leverage existing ai (GPT 3.0 api?) for a full-stack capstone
 - contribute more to my [personal blog](https://medium.com/@khazapar7)   
-    - writeup for every course i've taken at uw on my portfolio
+    - writeup for every course i've taken at uw
 - rebuilding a [geomap](https://depts.washington.edu/tsevents/) for university of washington's events management to help map out parking lots geographically with 360 panoramic images 
 - `on pause` [coursepedia.us](https://www.figma.com/proto/08pDbFmgqYH1MZjz8Qy8jl/coursepedia.us?page-id=0%3A1&node-id=1%3A30&viewport=644%2C290%2C0.25&scaling=min-zoom)
 

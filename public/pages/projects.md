@@ -1,5 +1,5 @@
 # 🧪 Projects
-
+<!-- TODO: update projects to include in progress section, and complete section -->
 ## [Spotify Capsule 🔗](https://github.com/info441-au22/info441-finalproject) Back-End Development
 - [architectural diagram](https://drive.google.com/file/d/1w2agbpS1FLcfwB96QfJlsfnvM6AnF0ey/view), [live demo](https://dancing-smakager-83c27b.netlify.app/)
 - **built with** `react`, `javascript`, `axios`, `mongodb`, `vercel`, and `amplifyui` 

@@ -47,24 +47,24 @@ export default function Home({ setSelectedIndex }: Props) {
             {/* got rid of logo until I make a newer one for myself */}
             {/* <img src={logo} width="130px" alt="logo" /> */} 
           </Box>
-          <Box>
+          <Box sx={{px: '1.5rem'}} >
             <Grid
               display="flex"
-              justifyContent={{ xs: "center", sm: "flex-start" }}
+              justifyContent={{ xs: "center", sm: "flex-start"}}
             >
               <Typography variant="h3">{process.env.REACT_APP_NAME}</Typography>
             </Grid>
             <Grid
               display="flex"
-              justifyContent={{ xs: "center", sm: "flex-start" }}
+              justifyContent={{ sm: "flex-start" }}
             >
               <Typography variant="subtitle1" gutterBottom>
-                Informatics: SWE
+                Informatics @ UW
               </Typography>
             </Grid>
             <Grid
               display="flex"
-              justifyContent={{ xs: "center", sm: "flex-start" }}
+              justifyContent={{ sm: "flex-start" }}
             >
               <Stack direction="row" spacing={0.4}>
                 {links.map((link) => (

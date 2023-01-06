@@ -1,24 +1,37 @@
 # 💻 Skills
 
-## Concepts
+## CONCEPTS 
+#### DESIGN
+- Applied Product Design
+- User Stories, Design Methods & Thinking
+- Research Methods in Design
+#### PM
+- Systems Design & Architecture
+- Sprints, Iterations, OKRs, and SCRUM 
+#### SWE
+- Data Structures & Algorithms
 - Client-Side Web Development 
 - Server-Side Web Development
-- Software Design & Architecture 
+- Collaborative Software Development
 - Databases & Data Modeling
-- User Stories, Design Methods & Thinking
-- Data Structures & Algorithms
-- Linear Algebra, Calculus I-III, Statistical Models
+#### MATH
+- Linear Algebra, Calculus, Statistical Models
 
-## Current web development stack...
-- Reactjs
+## LATEST DEVELOPMENT STACK
+*Changes based on application needs*
+- React
 - JavaScript & Nodejs
-    - TypeScript
-- Expressjs or Axios
+- ExpressJS or Axios
 - MongoDB
-- Vercel or Azure 
-- TailwindCSS, MaterialUI
+- Vercel, Github Pages, Netlify, or Azure 
+- TailwindCSS, MaterialUI, AmplifyUI, ReactUI
 
-## Tools
+## TOOLS
+*Tools I've used*
+#### DESIGN
+- FIGMA, Pitch
+- Miro, FigJam, Notion
+#### DEVELOPMENT
 - VSCode, Atom, R Studio
 - Git, GitHub
 - Draw.io, Microsoft Visio
@@ -26,8 +39,8 @@
 - Tableau
 - MongoDB Compass
 - SQL Server Management Studio 
-
-## Exposure to...
+ 
+## EXPOSURE TO
 *Stuff I have been exposed to or built with*
 - Azure
 - Axios 

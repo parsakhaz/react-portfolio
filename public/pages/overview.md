@@ -4,8 +4,6 @@
 
 > *a informatics student at the `University of Washington` in `Seattle`*
 
-> *chasing opportunity. constantly learning.*
-
 ## Abstract
 
 I have a diverse array of experiences due to my schools comprehensive curriculum and have been exposed to many information and technology concepts and worked on various collaborative projects, all while keeping myself ranked at the 0.5% of my class and maintaining a 3.93 GPA.

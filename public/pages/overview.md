@@ -41,10 +41,10 @@ My experiences give me a wide breadth of knowledge, which allows me unique persp
 - built static website for Persian Eyes LLC, small local non-profit
 - consulting/management intern @ [round.glass](https://roundglass.com)
 - Hackathons: `Dubhacks '22`, `#HackSEA`, `WINFO`
-
+<!-- 
 ## If you somehow got this far
 
 I'll share you a little secret... 
 
 I'm a 19 year-old graduating senior. Not at a High School. At UW, as an Informatics major & first-gen college student (and before you make any assumptions, I qualify for financial aid - my parents are not rich, but are incredibly supportive which I am blessed to have). If you want to make the most of your high school and college experiences, or just chat, reach out to me on LinkedIn or by email @ khazapar7@gmail.com and we can talk. I'd be happy to share what I'd do differently if I could go back, and my personal roadmap (most applicable to tech, but also any generally competitive major). Looking forward to hearing from you!
-<!-- It goes without saying that my environment & luck played an incredibly large part in this, and I have a lot to be grateful for in many regards. I plan to direct my efforts after college towards sharing my own insights and wisdom from my journey and let it be a compass to others in theirs.   -->
+It goes without saying that my environment & luck played an incredibly large part in this, and I have a lot to be grateful for in many regards. I plan to direct my efforts after college towards sharing my own insights and wisdom from my journey and let it be a compass to others in theirs.   -->

@@ -1,13 +1,13 @@
 # 🧪 Projects
 <!-- TODO: update projects to include in progress section, and complete section -->
-## [Spotify Capsule 🔗](https://github.com/info441-au22/info441-finalproject) Back-End Development
+## [Spotify Capsule 🔗](https://github.com/parsakhaz/spotify-capsule) Back-End Development
 - [architectural diagram](https://drive.google.com/file/d/1w2agbpS1FLcfwB96QfJlsfnvM6AnF0ey/view), [live demo](https://dancing-smakager-83c27b.netlify.app/)
 - **built with** `react`, `javascript`, `axios`, `mongodb`, `vercel`, and `amplifyui` 
 - voted [1st/class favorite](https://ibb.co/cXF4KJj)
 - lets user choose a season and year, then creates a playlist of songs that they listened to then in their Spotify account
   - also lets user create custom recommendations playlist based off genres that they choose in the web app
 
-## [WebSharer 🔗](https://test.parsak.me/) Back-End Development
+## [WebSharer 🔗](https://github.com/parsakhaz/websharer-expressjs-azure-mongodb) Back-End Development
 - **built with** `expressjs`, `nodejs`, `mongodb`, `azure`, `auth by azure`
 - started as simple website preview tool, expanded as I implemented auth, databases, and api (expressjs)
 - has website previewer and allows users to post previews, leave likes, leave comments, and more 
